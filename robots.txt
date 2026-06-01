@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kaletraining.com/sitemap.xml
